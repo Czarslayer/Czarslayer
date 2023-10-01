@@ -1,8 +1,8 @@
 <h2>Hey 👋, I'm <a href="https://www.twitter.com">Morad</a></h2>
 <p>I'm currently studying at <strong><a href="https://www.1337.ma/">school</a></strong> based in 🌁 Ben geurir. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Czarslayer.</p>
    <p>
-      <a href="https://twitter.com">
-         <img src="https://img.shields.io/badge/-1337.ma-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Chrome&amp;link=https://twitter.com" alt="Website Badge">
+      <a href="https://www.twitter.com">
+         <img src="https://img.shields.io/badge/-1337.ma-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Chrome&amp;link=https://www.twitter.com" alt="Website Badge">
       </a>
       <a href="https://medium.com/@serbis">
          <img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge">
