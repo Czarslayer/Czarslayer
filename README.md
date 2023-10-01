@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://www.twitter.com">Morad</a></h2>
+<h2 align="centre">Hey 👋, I'm <a href="https://www.twitter.com">Morad</a></h2>
 <p>I'm currently studying at <strong><a href="https://www.1337.ma/"> 1337 school</a></strong> based in 🏜️ Ben geurir. I am working on some side projects, learning a couple new skills, and it iss what it iss.</p>
    <p>
       <a href="https://www.twitter.com">
