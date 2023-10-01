@@ -15,7 +15,7 @@
       </a>
    </p>
 <p align="center">if it works don't you dare to touch it 🤫</p>
-<img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500" height="300"/>
+<img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="400" height="200"/>
 <h2>Some Few Quick Facts you might wanna Check out</h2>
 <ul>
    <li>🔭 I’m currently learning <a href="https://github.com/Czarslayer/cpp_project-42">CPP</a>.</li>
