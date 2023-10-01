@@ -14,6 +14,7 @@
          <img src="https://img.shields.io/badge/-@Czar%20slayer-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31qpgykymbgnfsn3bxkqgl5klj3u" alt="Spotify Badge">
       </a>
    </p>
+   <img src="https://count.getloli.com/get/Czarslayer?theme=rule34" alt=":name" />
 <p align="center">if it works don't you dare to touch it 🤫</p>
 <img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500" height="350"/>
 <h2 >Some Few Quick Facts you might wanna Check out</h2>
