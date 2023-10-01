@@ -15,7 +15,7 @@
       </a>
    </p>
    <p  align="center">
-         <imgsrc="https://count.getloli.com/get/@Czarslayer?theme=rule34" alt="czarslayer" />
+         <img src="https://count.getloli.com/get/@Czarslayer?theme=rule34" alt="czarslayer" />
    </p>
 <p align="center">if it works don't you dare to touch it 🤫</p>
 <img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500" height="350"/>
