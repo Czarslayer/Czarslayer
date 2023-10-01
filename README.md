@@ -5,7 +5,7 @@
          <img src="https://img.shields.io/badge/-1337.ma-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://www.twitter.com" alt="Website Badge">
       </a>
       <a href="https://www.linkedin.com/in/morad-abahni-99495323b/">
-         <img src="https://img.shields.io/badge/-@morad-abahni-99495323b-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/morad-abahni-99495323b/" alt="LinkedIn Badge">
+         <img src="https://img.shields.io/badge/-@moradab-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/morad-abahni-99495323b/" alt="LinkedIn Badge">
       </a> 
       <a href="https://dev.to/spiderpig86">
          <img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge">
