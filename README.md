@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://www.twitter.com">Morad</a></h2>
-<p>I'm currently studying at <strong><a href="https://www.1337.ma/"> 1337 school</a></strong> based in 🌁 Ben geurir. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Czarslayer.</p>
+<p>I'm currently studying at <strong><a href="https://www.1337.ma/"> 1337 school</a></strong> based in 🏜️ Ben geurir. I am working on some side projects, learning a couple new skills, and it iss what it iss.</p>
    <p>
       <a href="https://www.twitter.com">
          <img src="https://img.shields.io/badge/-1337.ma-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://www.twitter.com" alt="Website Badge">
@@ -13,15 +13,11 @@
    </p>
 <p>if it works don't you dare to touch it 🤫</p>
 <img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500" height="300"/>
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>Some Few Quick Facts you might wanna Check out</h2>
 <ul>
-   <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-   <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-   <li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-   <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-   <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-   <li>🎉 Fun Fact: 我也会讲中文。</li>
+   <li>🔭 I’m currently learning <a href="https://github.com/Czarslayer/cpp_project-42">CPP</a>.</li>
+   <li>👨‍💻 you can find most of my projects are available on <a href="https://github.com/Czarslayer">Github</a>.</li>
+   <li>📝 I'm big fan of <del>onepiece</del> re:zero anime in <a href="https://aniwave.to/watch/rezero-starting-life-in-another-world.jv78/ep-1">here</a>.</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
