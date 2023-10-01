@@ -20,7 +20,7 @@
    <li>📝 I'm big fan of <del>onepiece</del> re:zero anime in <a href="https://aniwave.to/watch/rezero-starting-life-in-another-world.jv78/ep-1">here</a>.</li>
 </ul>
 <p><a target="_blank" href="https://1337.ma">Read More</a></p>
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Some languages that I Use/learn</h2>
 <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C lang" width="50" height="50" />
