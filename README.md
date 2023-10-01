@@ -15,9 +15,9 @@
       </a>
    </p>
 <p align="center">if it works don't you dare to touch it 🤫</p>
-<img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="400" height="200"/>
-<h2>Some Few Quick Facts you might wanna Check out</h2>
-<ul>
+<img align="center" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="400" height="200"/>
+<h2 align="center">Some Few Quick Facts you might wanna Check out</h2>
+<ul align="center">
    <li>🔭 I’m currently learning <a href="https://github.com/Czarslayer/cpp_project-42">CPP</a>.</li>
    <li>👨‍💻 you can find most of my projects are available on <a href="https://github.com/Czarslayer">Github</a>.</li>
    <li>🥣 I'm big fan of <del>onepiece</del> re:zero anime in <a href="https://aniwave.to/watch/rezero-starting-life-in-another-world.jv78/ep-1">here</a>.</li>
