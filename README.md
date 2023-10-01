@@ -11,8 +11,8 @@
          <img src="https://img.shields.io/badge/-@Czar%20slayer-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31qpgykymbgnfsn3bxkqgl5klj3u" alt="Spotify Badge">
       </a>
    </p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" />
+<p>if it works don't you dare to touch it 🤫</p>
+<img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500" height="600"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
    <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
