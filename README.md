@@ -31,3 +31,4 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Czarslayer&show_icons=true&count_private=true" alt="Czarslayer" />
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mabahani" alt="mabahani's 42 stats" /></a>
