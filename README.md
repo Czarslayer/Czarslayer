@@ -12,7 +12,7 @@
       </a>
    </p>
 <p>if it works don't you dare to touch it 🤫</p>
-<img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500" height="600"/>
+<img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500" height="200"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
    <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
