@@ -27,8 +27,8 @@
    
 </ul>
 <p><a target="_blank" href="https://1337.ma">Read More</a></p>
-<h2>🚀 Some languages that I Use/learn</h2>
-<p align="left">
+<h2 align="center">🚀 Some languages that I Use/learn</h2>
+<p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C lang" width="50" height="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cpp lang" width="50" height="50" />
@@ -37,4 +37,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
 </p>
+<p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mabahani" alt="mabahani's 42 stats" /></a>
+</p>
