@@ -7,11 +7,8 @@
       <a href="https://www.linkedin.com/in/morad-abahni-99495323b/">
          <img src="https://img.shields.io/badge/-@moradab-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/morad-abahni-99495323b/" alt="LinkedIn Badge">
       </a> 
-      <a href="https://dev.to/spiderpig86">
-         <img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge">
-      </a> 
       <a href="https://open.spotify.com/user/31qpgykymbgnfsn3bxkqgl5klj3u">
-         <img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31qpgykymbgnfsn3bxkqgl5klj3u" alt="Spotify Badge">
+         <img src="https://img.shields.io/badge/-@Czar%20slayer-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31qpgykymbgnfsn3bxkqgl5klj3u" alt="Spotify Badge">
       </a>
    </p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
