@@ -19,7 +19,7 @@
    </p>
 <p align="center">if it works don't you dare to touch it 🤫</p>
 <img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500" height="350"/>
-<h3 >Some Few Quick Facts you might wanna Check out</h3>
+<h2 >Some Few Quick Facts you might wanna Check out</h2>
 <ul>
    <li>🔭 I’m currently learning <a href="https://github.com/Czarslayer/cpp_project-42">CPP</a>.</li>
    <li>👨‍💻 you can find most of my projects are available on <a href="https://github.com/Czarslayer">Github</a>.</li>
@@ -30,7 +30,7 @@
    
 </ul>
 <p><a target="_blank" href="https://1337.ma">Read More</a></p>
-<h3>🚀 Some languages that I Use/learn</h3>
+<h2>🚀 Some languages that I Use/learn</h2>
 <p>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C lang" width="50" height="50" />
