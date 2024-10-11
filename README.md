@@ -21,7 +21,6 @@
 <img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500" height="350"/>
 <h2 >Some Few Quick Facts you might wanna Check out</h2>
 <ul>
-   <li>🔭 I’m currently learning <a href="https://github.com/Czarslayer/cpp_project-42">CPP</a>.</li>
    <li>👨‍💻 you can find most of my projects well private but some public are available on <a href="https://github.com/Czarslayer">Github</a>.</li>
    <li>...</li>
 
