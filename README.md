@@ -75,16 +75,6 @@
 
 ---
 
-### 42 Stats
-
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/binary/mabahani" alt="mabahani 42 stats" />
-  </a>
-</div>
-
----
-
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=Czarslayer&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
